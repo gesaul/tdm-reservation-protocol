@@ -48,7 +48,7 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - Taylor & Francis (https://www.tandfonline.com): as tdmrep.json, with a policy.
 - The Cochrane Library (http://www.cochranelibrary.com/) as tdmrep.json, with a policy.
 - University of Chicago Press (https://www.journals.uchicago.edu): as tdmrep.json, with a policy.
-
+- Wiley (https://onlinelibrary.wiley.com): as tdmrep.json, with a policy.
 
 ## Digital Platforms
 They are contracted by publishers to distribute digital content. 
