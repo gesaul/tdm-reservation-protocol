@@ -25,6 +25,7 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - American Society of Civil Engineers (https://ascelibrary.org): as tdmrep.json, with a policy.
 - American Speech-Language-Hearing Association (https://pubs.asha.org): as tdmrep.json, with a policy.
 - CAB International (https://www.cabidigitallibrary.org): as tdmrep.json, with a policy.
+- Cambridge University Press (https://www.cambridge.org): as tdmrep.json, http headers + html metadata, with a policy.  Also PDF and EPUB metadata.
 - Edinburgh University Press (https://www.euppublishing.com): as tdmrep.json, with a policy.
 - Elsevier (https://www.elsevier.com/): as tdmrep.json, http headers + html metadata, with a policy. Also Crossref metadata, PDF and EPUB metadata.
 - European Respiratory Society (https://publications.ersnet.org/): as tdmrep.json, with a policy.
